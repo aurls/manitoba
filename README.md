@@ -7,5 +7,3 @@ Original dataset provided by IBM on [Kaggle](https://www.kaggle.com/datasets/pav
 ---
 ### Jupyter notebook is [here](./src/manitoba.ipynb).
 ---
-> Jupyter notebook is [here](./src/manitoba.ipynb).
----
