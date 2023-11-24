@@ -7,5 +7,7 @@ Original dataset provided by IBM on [Kaggle](https://www.kaggle.com/datasets/pav
 The work done as a part of the machine learning course at HSE University, 2023.
 
 ---
+
 The full paper is [here](./src/manitoba.ipynb).
+
 ---
